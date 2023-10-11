@@ -12,12 +12,12 @@
 
 
 ### С чем работал
-- .Net Framework 4.5-4.7, .Net Core 3.1 -> .Net 6.0
-- MS SQL Server, PostgreSQL, MongoDb, Redis, ElasticSearch
-- Ef Core, Dapper, T-SQL stored procedures
-- RabbitMq
-- Teamcity, Jenkins, Docker
-- NUnit
+- **Frameworks**:.Net Framework 4.5-4.7, .Net Core 3.1 -> .Net 6.0
+- **DMS**: MS SQL Server, PostgreSQL, MongoDb, Redis, ElasticSearch
+- **ORM**: Ef Core, Dapper, T-SQL stored procedures
+- **Message brokers**: RabbitMq
+- **CI/CD**: Teamcity, Jenkins, Docker
+- **Testing frameworks**: NUnit, xUnit
 
 - Мой опыт работы с технологиями может быть разным и не всегда совпадать с ожиданиями нанимающих менеджеров. Опыт работы с RabbitMq через обёртку, разработанную в компании != опыт настройки брокера с нуля.
 Зачастую  в компаниях были отдельные специалисты, отвечающие за оптимизацию БД, деплой, высокоуровневое проектирование. В таком случае опыт использования технологии был сильно ограничен. 
